@@ -46,3 +46,5 @@ if __name__ == "__main__":
     # Calculate the total time
     parallel_time = par_end_time - par_start_time
     print(f"Parallel execution time: {parallel_time:.2f} seconds\n")
+
+    print("All tasks completed.")
